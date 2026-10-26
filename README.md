@@ -63,7 +63,7 @@ deep-learning-practical-exam-set-b/
 
 ### 1. Clone the Repository & Create a Virtual Environment
 ```bash
-git clone https://github.com/<your-username>/deep-learning-practical-exam-set-b.git
+git clone https://github.com/Parth-M-M/deep-learning-practical-exam-set-b/tree/main
 cd deep-learning-practical-exam-set-b
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
